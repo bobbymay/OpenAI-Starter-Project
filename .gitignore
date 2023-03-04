@@ -1,0 +1,13 @@
+## Build generated
+build/
+DerivedData/
+
+# Local settings
+.env
+*.xcconfig
+
+# Temporary files
+*~
+
+# Finder metadata
+.DS_Store
